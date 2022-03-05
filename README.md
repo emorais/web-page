@@ -2,9 +2,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Eric Morais' Website</title>
   </head>
   <body>
-    <h1>Eric Morais</h1>
+    <h1>Eric Morais' Website</h1>
   </body>
 </html>
